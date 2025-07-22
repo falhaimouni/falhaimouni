@@ -17,10 +17,10 @@ I'm a passionate software developer and 42 School student, focused on mastering 
 
 ## 🚀 What I’m Working On
 
-- **Minishell**: Building a custom Unix shell with builtin commands, parsing, and job control.
-- **Push_swap**: Algorithmically sorting stacks using minimal operations.
-- **Pipex**: Recreating shell piping and redirection behavior.
-- **Cub3D**: 3D raycasting game inspired by Wolfenstein 3D.
+- Currently studying Computer Science at **42 Amman**, focusing on systems programming and algorithmic challenges.  
+- Developing projects as part of the 42 curriculum, including Unix shell tools, sorting algorithms, and graphics programming.  
+- Building a strong foundation in C programming, data structures, and low-level software development.  
+- Exploring real-world programming concepts like process management, memory handling, and file operations.
 
 Check out my repositories for source code and project details.
 
@@ -41,14 +41,6 @@ Check out my repositories for source code and project details.
 
 - GitHub: [falhaimouni](https://github.com/falhaimouni)  
 - Email: farahhaymoni05@gmail.com
-
----
-
-## 🌟 Fun Facts
-
-- I enjoy solving puzzles and coding challenges in my free time.  
-- Coffee fuels my late-night debugging sessions ☕.  
-- Always open to collaboration and learning from others!
 
 ---
 
