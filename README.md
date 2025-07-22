@@ -40,8 +40,7 @@ Check out my repositories for source code and project details.
 ## 📫 How to Reach Me
 
 - GitHub: [falhaimouni](https://github.com/falhaimouni)  
-- LinkedIn: [linkedin.com/in/falhaimouni](https://linkedin.com/in/falhaimouni)  
-- Email: falhaimouni@example.com
+- Email: farahhaymoni05@gmail.com
 
 ---
 
