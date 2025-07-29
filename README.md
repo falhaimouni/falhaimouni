@@ -11,7 +11,7 @@ I'm a passionate software developer and 42 School student, focused on mastering 
 - 🎓 Currently diving deep into **42 School curriculum** projects like minishell, push_swap, pipex, and more.
 - 🔧 Experienced in C, C++, and scripting languages.
 - 🌱 Always learning new technologies and best practices.
-- 💡 Interested in system programming, networking, and embedded systems.
+- 💡 Interested in system programming, and networking.
 
 ---
 
