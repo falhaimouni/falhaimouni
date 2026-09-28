@@ -2,18 +2,21 @@
 
 # Hi, I'm Farah Alhaimouni 👋
 
-### Computer Science Student • 42 Amman • Software Developer
+<img
+  src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&color=F472B6&center=true&vCenter=true&width=650&lines=Computer+Science+Student;42+Amman+Student;Software+Developer;Backend+%26+Full-Stack+Developer"
+  alt="Typing SVG"
+/>
 
 I enjoy building backend systems, full-stack applications, APIs, and low-level software.
 
 <br>
 
 <a href="https://www.linkedin.com/in/farah-alhaimouni-33195b321">
-  <img src="https://img.shields.io/badge/LinkedIn-Farah%20Alhaimouni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Farah%20Alhaimouni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:farahhaymoni05@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -25,94 +28,11 @@ I enjoy building backend systems, full-stack applications, APIs, and low-level s
 - 🎓 Computer Science student at **Zarqa University**
 - 💻 Student at **42 Amman**
 - 🚀 Interested in **Backend Development, Full-Stack Development, Software Engineering, and System Programming**
-- ⚙️ Experienced with **REST APIs, authentication, authorization, databases, WebSockets, file handling, and reporting**
-- 🐳 Comfortable working with **Docker, NGINX, Linux, and containerized environments**
+- ⚙️ Experience with **REST APIs, authentication, authorization, databases, WebSockets, file handling, and reporting**
+- 🐳 Comfortable with **Docker, NGINX, Linux, and containerized environments**
 - 🌐 Building applications using **React, TypeScript, NestJS, and PostgreSQL**
 - 🧠 Strong foundation in **C and C++**
-- 📚 Currently learning more about **C#, PHP, AI, and software engineering**
-
----
-
-## 🚀 Featured Work
-
-### 🐾 Pet Adoption Management System
-
-A full-stack pet adoption and shelter-management platform developed as part of my 42 journey.
-
-**Tech Stack**
-
-`NestJS` `React` `TypeScript` `PostgreSQL` `TypeORM` `Docker` `Socket.IO` `JWT`
-
-**Some of the features I worked with:**
-
-- Role-based access control
-- Authentication and authorization
-- Pet management
-- Adoption workflows
-- Medical records and vaccinations
-- Inventory and supplier management
-- Real-time notifications
-- Real-time chat
-- File and image uploads
-- PDF and CSV reports
-- Dashboard analytics
-- Responsive multilingual frontend
-- Dockerized services
-
----
-
-### 🌐 Webserv
-
-A custom HTTP server written in **C++**, inspired by servers such as NGINX.
-
-Worked with:
-
-- HTTP request parsing
-- HTTP response generation
-- GET, POST and DELETE
-- CGI execution
-- Static files
-- File uploads
-- Directory listing
-- Redirects
-- Error handling
-- Chunked requests
-- Multiple clients
-- Non-blocking I/O
-- `poll()`
-- Sockets and networking
-
----
-
-### 🐳 Inception
-
-A containerized infrastructure project built with:
-
-`Docker` `Docker Compose` `NGINX` `MariaDB` `WordPress` `PHP-FPM` `TLS`
-
-Focused on:
-
-- Docker networking
-- Persistent volumes
-- Service isolation
-- NGINX configuration
-- HTTPS
-- Database integration
-- Container orchestration
-
----
-
-### 🐚 Minishell
-
-A Unix shell written in **C**.
-
-Implemented concepts such as:
-
-`Processes` `Pipes` `Redirections` `Signals` `Heredocs` `Environment Variables` `Built-ins`
-
----
-
-> 📌 More projects are available in my repositories, with dedicated documentation inside each project README.
+- 📚 Currently learning **C#, PHP, Artificial Intelligence, and Software Engineering**
 
 ---
 
@@ -175,8 +95,8 @@ Implemented concepts such as:
 ## 🧠 Areas I Work With
 
 - Backend Development
-- REST API Design
 - Full-Stack Development
+- REST API Design
 - C / C++ System Programming
 - Database Design
 - Authentication & Authorization
